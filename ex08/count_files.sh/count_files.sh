@@ -1,2 +1,4 @@
-find , -c ,-l ,-m ,-w ,| cat     
+    #!/bin/bash
+     
+    wc  count_files.sh | cat -e	
 
