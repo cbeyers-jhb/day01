@@ -1,4 +1,4 @@
     #!/bin/bash
-	
-	grep -F  find_sh.sh | cat -e
+    int main(void)
+	echo find. - type f "*.sh*"
    
